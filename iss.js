@@ -108,4 +108,3 @@ const nextISSTimesForMyLocation = function(callback) {
 // This is because they are not needed by external modules.
 module.exports = { nextISSTimesForMyLocation };
 
-module.exports = { nextISSTimesForMyLocation };
